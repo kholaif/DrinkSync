@@ -1,7 +1,7 @@
 # DrinkSync
 
 **Capstone project — Computer Engineering (group)**  
-**Authors:** Kareem Kholaif ([@kholaif](https://github.com/kholaif)), [Karim Smires](https://github.com/ks1686), and collaborators
+**Authors:** Kareem Kholaif ([@kholaif](https://github.com/kholaif)), [Karim Smires](https://github.com/ks1686), and Mohammad Daoud (https://github.com/mdaoud1)
 
 DrinkSync is an Android hydration tracker paired with a Bluetooth-connected load-cell scale. The phone app logs intake, goals, streaks, and achievements; a Python service on the scale reads the HX711 sensor and streams weight data over Bluetooth.
 
